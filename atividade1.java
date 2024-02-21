@@ -4,11 +4,10 @@ public class Variaveis {
         double altura = 1.73;
         char genero = 'F';
         boolean temCarteiraDeMotorista = true;
-        float 
+        float valor;
         long
         short
-        byte
-        char
+      
 System.out.println("Idade: " + idade);
         System.out.println("Altura: " + altura);
         System.out.println("Gênero: " + genero);
