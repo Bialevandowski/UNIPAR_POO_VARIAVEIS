@@ -11,6 +11,7 @@ class HelloWorld {
         
         System.out.println("Informe seus dados  ");
         System.out.println("Informe seu nome:");
+        nome = scanner.nextLine();
     System.out.println("qual o preco do produto:");
          preco = scanner.nextDouble();
          System.out.println("Qual o porcentual de desconto:");
