@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
        
-        Double numeroProduto = "0"; 
-        double precoProduto = "";
+       int numeroProduto = 0 ; 
+        double precoProduto = 25;
         String descricaoProduto = "" ;
         
         System.out.println("Descricao do Produto: " + descricaoProduto);
